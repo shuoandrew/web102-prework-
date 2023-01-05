@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/hKtLk5b' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  Kap
@@ -35,6 +35,10 @@ GIF created with ...  Kap
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+My first challenge with building this web app is that I had to refamiliarize myself with JavaScript since I have been primarily working with Python. An example would be on challenge three when I had to loop through every game of the JSON data. It took me a while before noticing my loop syntax was in Python instead of JavaScript. However, after challenge 4, I thought my progress became a lot smoother.
+
+Another challenge that I encountered was during challenges four to seven. Although I am familiar with the basics of object-oriented programming languages, there were some topics that I had to learn before proceeding with the tasks. An example would be destructuring and the spread operator in challenge seven. Thankfully, the tutorials and examples at the beginning of every challenge were very helpful and made learning a lot easier.
 
 ## License
 
