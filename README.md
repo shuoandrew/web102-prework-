@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X] Added hover effect under "Show Unfunded Only", "Show Funded Only", and "Show All Games" Buttons to give users more clarity that they are hovering a button instead of a plain block text.
 
 ## Video Walkthrough
 
